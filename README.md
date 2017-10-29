@@ -5,5 +5,5 @@
  Anyhow everyone is welcome to use the code as they wish :)<br><br>
 
  Requirements:
- * Download chromewebdriver for selenium and update the path of the dowbloaded executable in executable_path=
+ * Download chromewebdriver for selenium and update the path of the downloaded executable in <strong>executable_path=</strong>
  * Install the required libraries
