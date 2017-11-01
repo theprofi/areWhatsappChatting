@@ -9,10 +9,10 @@ Be noted that the script saves localy the whole browsing session meaning you wil
 only once and from then on, every time the script runs whatsapp web will be logged in.
 
 <h4><i>Requirements:</i></h4>
-1. Provide a path to the Chrome Selenium web driver file.
-2. Provide a path to the output file.
-3. Provide the names of the targets as they are shown in your Whatsapp.
-4. Provide a path to the directory where the script will save the session (read the intro above).
-5. Install Selenium library
+1. Provide a path to the Chrome Selenium web driver file.</ br>
+2. Provide a path to the output file.</ br>
+3. Provide the names of the targets as they are shown in your Whatsapp.</ br>
+4. Provide a path to the directory where the script will save the session (read the intro above).</ br>
+5. Install Selenium library.</ br></ br>
 
 Tested on Windows 10 and Fedora 26.
