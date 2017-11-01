@@ -1,6 +1,6 @@
 # areWhatsappChatting
 <h2>Intro:</h2>
-This is my little script to 'spy' on two people through Whatsapp.
+This is my little script to 'spy' on two people through Whatsapp.</br>
 It constantly check whether the two people that you chose in the target variables
 are online at the same time.
 If they are it will output the exact time it happened.
