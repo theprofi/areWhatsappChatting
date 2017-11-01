@@ -1,9 +1,18 @@
 # areWhatsappChatting
-<h3>Get a detailed log when two persons were chatting in Whatsapp!</h3>
- it's only the POC.<br>
- Maybe later I'll make the code cleaner.<br>
- Anyhow everyone is welcome to use the code as they wish :)<br><br>
+<h2>Intro:</h2>
+This is my little script to 'spy' on two people through Whatsapp.
+It constantly check whether the two people that you chose in the target variables
+are online at the same time.
+If they are it will output the exact time it happened.
 
- Requirements:
- * Download chromewebdriver for selenium and update the path of the downloaded executable in <strong>executable_path=</strong>
- * Install the required libraries
+Be noted that the script saves localy the whole browsing session meaning you will need to log in for the script
+only once and from then on, every time the script runs whatsapp web will be logged in.
+
+<h4><i>Requirements:</i></h4>
+1. Provide a path to the Chrome Selenium web driver file.
+2. Provide a path to the output file.
+3. Provide the names of the targets as they are shown in your Whatsapp.
+4. Provide a path to the directory where the script will save the session (read the intro above).
+5. Install Selenium library
+
+Tested on Windows 10 and Fedora 26.
