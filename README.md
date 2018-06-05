@@ -6,7 +6,7 @@ are online at the same time.
 If they are it will output the exact time it happened.
 
 Be noted that the script saves localy the whole browsing session meaning you will need to log in for the script
-only once and from then on, every time the script runs whatsapp web will be logged in.
+only once and from then on, every time the script runs Whatsapp Web will be logged in.
 
 <h4><i>Requirements:</i></h4>
 1. Provide a path to the Chrome Selenium web driver file.</br>
